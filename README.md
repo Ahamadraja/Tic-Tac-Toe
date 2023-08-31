@@ -23,7 +23,7 @@ This project contains a minimax algorithm implemented tic tac toe app built with
 ## Installation
 
 ```bash
-git clone https://github.com/UnreolFreedom/tic-tac-toe.git
+git clone https://github.com/Ahamadraja/tic-tac-toe.git
 cd tic-tac-toe/
 npm install
 npm start
