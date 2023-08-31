@@ -7,9 +7,7 @@ This project contains a minimax algorithm implemented tic tac toe app built with
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage / Gameplay](#usage--gameplay)
-- [Technologies](#technologies)
 - [Note](#note)
-- [Credits](#credits)
 
 ---
 
@@ -54,17 +52,7 @@ Before showing an example of gameplay, let me show you the dark theme. You can c
 And finally, an example of gameplay
 ![gif](https://user-images.githubusercontent.com/81323808/129346406-18fc7be9-e8c3-470f-a0a9-c33d5d733df7.gif)
 
----
 
-## Technologies
-
-| Technology      | Version      |
-| --------------- | ------------ |
-| React           | 17.0.2       |
-| React Bootstrap | 2.0.0-beta.4 |
-| Bootstrap       | 5.0.2        |
-
----
 
 ## Note
 
