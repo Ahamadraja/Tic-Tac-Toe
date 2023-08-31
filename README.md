@@ -71,6 +71,3 @@ And finally, an example of gameplay
 If you go through an error like `ERR_OSSL_EVP_UNSUPPORTED`, try exporting this as an environment variable:
 `NODE_OPTIONS=--openssl-legacy-provider`
 
-## Credits
-
-<img src="https://avatars.githubusercontent.com/u/81323808?v=4" width="100px"></img>
